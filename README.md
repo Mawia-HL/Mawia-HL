@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mawia-HL
 - 👀 SQL, PYTHON, PHP, Javascript, HTML, CSS, JQUERY, NWJS, DJANGO
-- 🌱 I’m currently teaching computer science in XII ...
+- 🌱 I’m currently teaching computer science in Govt Mizo HSS
 - 💞️ I’m looking to collaborate on the above technology
 - 📫 Reach me at mizohss.edu.in
 
